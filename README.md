@@ -209,4 +209,4 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
-*For a detailed treatment of the methodology, results, and analysis, see [`technical_report.md`](./technical_report.md).*
+*For a detailed treatment of the methodology, results, and analysis, see [`technical_report.pdf`](./technical_report.pdf).*
