@@ -97,6 +97,7 @@ This "learn-first, prune-second" behavior is intentional: the network first buil
 | 1e-3 | 51.45% | 99.8% | ~8K |
 
 **Best model:** λ = 1e-4 — highest accuracy with extreme sparsity, demonstrating that aggressive pruning acts as an implicit regularizer.
+<img width="2250" height="600" alt="gate_distributions" src="https://github.com/user-attachments/assets/84dea7fa-29bc-4b03-84a3-1cfb8b44fe08" />
 
 ---
 
